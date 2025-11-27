@@ -1,5 +1,4 @@
-# diaflow
-Web-application where Multi-AI Agents draw your diagrams and workflows. 
+# Diaflow -- Web-application where Multi-AI Agents draw your diagrams and workflows. 
 
 <img width="1900" height="917" alt="image" src="https://github.com/user-attachments/assets/fc4ac395-4d77-4cfd-8885-cf5b8993b2aa" />
 
