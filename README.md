@@ -1,12 +1,28 @@
-# Diaflow -- Web-application where Multi-AI Agents draw your diagrams and workflows. 
-Just write what you want, get it in seconds, save your SVG.
+# Diaflow
 
-<img width="1900" height="917" alt="image" src="https://github.com/user-attachments/assets/fc4ac395-4d77-4cfd-8885-cf5b8993b2aa" />
+Turn text to useful flow diagrams -
+Give text and let multiple AI agents draw your diagram in seconds.
 
-<img width="1895" height="918" alt="d33" src="https://github.com/user-attachments/assets/f621abe8-3e3f-4a81-befe-219372c26e36" />
+---
 
-### ENV
+## Features
 
+- AI-generated workflows, architectures, UML, system diagrams
+- SVG export + designer-friendly layouts
+- Appwrite for user workspace + history
+- Running on GROQ LLM inference (kimi-k2)
+
+---
+
+## Preview
+
+![preview](https://github.com/user-attachments/assets/fc4ac395-4d77-4cfd-8885-cf5b8993b2aa)
+<img width="1895" height="918" alt="d33" src="https://github.com/user-attachments/assets/22d3e206-b97b-4dc2-bce8-49c4decb9cd6" />
+
+
+---
+## ENV :
+```
 GROQ_API_KEY = xxx
 NEO4J_URI = xxx
 NEO4J_USERNAME = xxx
@@ -18,3 +34,4 @@ VITE_APPWRITE_ENDPOINT = xxx
 VITE_APPWRITE_DATABASE_ID = xxx
 
 VITE_APPWRITE_TABLE_ID = xxx
+```
