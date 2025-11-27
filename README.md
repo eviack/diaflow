@@ -14,10 +14,16 @@ Give text and let multiple AI agents draw your diagram in seconds.
 
 ---
 
-## Preview
+## Create your diagrams and view on canvas
 
 ![preview](https://github.com/user-attachments/assets/fc4ac395-4d77-4cfd-8885-cf5b8993b2aa)
 <img width="1895" height="918" alt="d33" src="https://github.com/user-attachments/assets/22d3e206-b97b-4dc2-bce8-49c4decb9cd6" />
+
+## Manage your diagrams on cloud
+
+<img width="1889" height="913" alt="image" src="https://github.com/user-attachments/assets/850e2da7-f0da-4b05-8abf-021503532208" />
+
+<img width="1739" height="872" alt="image" src="https://github.com/user-attachments/assets/fa27b976-49d2-4143-8c82-bd4bd9d11236" />
 
 
 ---
